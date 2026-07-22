@@ -1,0 +1,6 @@
+{
+  "name": "OptiWebP Studio",
+  "description": "Convertidor y optimizador de imágenes a WebP y múltiples formatos con procesamiento por lotes, historial, encriptación E2EE, autenticación biométrica y exportación a la nube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
